@@ -1,0 +1,14 @@
+myvar = "GOPAL"
+my_var = "NILESH"
+_my_var = "ANKIT"
+myVar = "KISHAN"
+MYVAR = "AJAY"
+myvar2 = "MEHUL"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
