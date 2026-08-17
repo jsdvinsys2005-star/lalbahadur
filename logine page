@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center">
+<h2>Login page </h2>
+
+<input type="text" placeholder="Username"><br><br>
+<input type="password" placeholder="Password"><br><br>
+
+<button>Login</button>
+</body>
+</html>
